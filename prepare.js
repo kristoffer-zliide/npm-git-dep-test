@@ -6,7 +6,7 @@ async function main() {
     await new Promise(resolve => setTimeout(resolve, 30000))
 
     await writeFile('index.js', `export function aNumber() {
-    return 1
+    return 2
 }
 `)
 }
