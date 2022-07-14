@@ -6,6 +6,6 @@ console.error('PREPARING GIT DEPENDENCY')
 await setTimeout(30000)
 
 await writeFile('index.js', `export function aNumber() {
-    return 1
+    return 2
 }
 `)
