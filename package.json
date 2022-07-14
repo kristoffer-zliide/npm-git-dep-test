@@ -1,0 +1,20 @@
+{
+  "name": "npm-git-dep-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristoffer-zliide/npm-git-dep-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristoffer-zliide/npm-git-dep-test/issues"
+  },
+  "homepage": "https://github.com/kristoffer-zliide/npm-git-dep-test#readme"
+}
